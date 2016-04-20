@@ -4,5 +4,5 @@ Here is a github cheat sheet: https://raw.githubusercontent.com/hbons/git-cheat-
 
 
 group: Ian Cross
-       Suman Rakoirala
+       Suman Koirala
        Dakota Parks
